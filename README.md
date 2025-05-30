@@ -1,7 +1,7 @@
-# oops-assessment
-THIS IS MY IIT MANDI ASSESSMENT ON OOPS PYTHON <BR>
+# oops-assigment
+THIS IS MY IIT MANDI ASSIGMENT OOPS PYTHON <BR>
 
-from abc import ABC, abstractmethod 
+from abc import ABC, abstractmethod <BR>
 
 # Abstract class
 class SmartDevice(ABC):
